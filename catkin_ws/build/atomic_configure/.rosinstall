@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/eson/workspace/ros_program/catkin_ws/devel/setup.sh
